@@ -57,7 +57,9 @@ The workflow uses GitHub repository secrets for environment variables:
 - `DATAWRAPPER_CHART_ID`
 - `IRAN_KRIEG_SOURCE_URL`
 
-GitHub Actions cron is UTC-only, so the workflow is scheduled at two UTC slots and gated at runtime so it only proceeds at `06:00` in `Europe/Zurich`, including DST changes.
+GitHub Actions cron is UTC-only, so the workflow is scheduled at `05:00 UTC`.
+That corresponds to `06:00` in `Europe/Zurich` during standard time.
+If you want it to stay at `06:00` local time after DST changes, update the cron manually.
 
 Use an existing local CSV instead of downloading:
 
