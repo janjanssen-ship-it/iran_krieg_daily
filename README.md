@@ -4,7 +4,7 @@ This repository automates a daily map update workflow for the Iran war coverage.
 
 It does two things:
 
-1. pulls the latest strike dataset from SRF
+1. pulls the latest strike dataset from the source
 2. reduces and uploads that data into a production Datawrapper locator map
 
 ## Production Flow
@@ -20,7 +20,7 @@ The production automation runs through:
 
 That workflow:
 
-1. fetches the latest SRF dataset
+1. fetches the latest source dataset
 2. reduces the point count to fit Datawrapper limits
 3. uploads the reduced result to the production chart
 4. republishes the chart
@@ -42,7 +42,7 @@ GitHub Actions should use repository secrets for the production workflow.
 
 ## Local Usage
 
-Fetch and reduce from SRF:
+Fetch and reduce from the source:
 
 ```bash
 python3 scripts/reduce_iran_krieg_points.py
