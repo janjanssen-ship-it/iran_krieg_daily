@@ -1,0 +1,59 @@
+name: Iran Krieg Daily
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 05:00 UTC = 06:00 Europe/Zurich during standard time.
+    # Adjust manually after DST changes if you want to keep a 06:00 local run.
+    - cron: "0 5 * * *"
+
+permissions:
+  contents: read
+
+jobs:
+  update-chart:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONUNBUFFERED: "1"
+      TZ: Europe/Zurich
+      DATAWRAPPER_API_ROOT: ${{ secrets.DATAWRAPPER_API_ROOT }}
+      DATAWRAPPER_ACCESS_TOKEN: ${{ secrets.DATAWRAPPER_ACCESS_TOKEN }}
+      DATAWRAPPER_CHART_ID: ${{ secrets.DATAWRAPPER_CHART_ID }}
+      IRAN_KRIEG_SOURCE_URL: ${{ secrets.IRAN_KRIEG_SOURCE_URL }}
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Validate required secrets
+        run: |
+          set -euo pipefail
+          if [ -z "${DATAWRAPPER_ACCESS_TOKEN}" ]; then
+            echo "DATAWRAPPER_ACCESS_TOKEN secret is required." >&2
+            exit 1
+          fi
+
+      - name: Pull and reduce SRF data
+        run: |
+          set -euo pipefail
+          python3 scripts/reduce_iran_krieg_points.py
+
+      - name: Upload reduced data to Datawrapper
+        run: |
+          set -euo pipefail
+          python3 scripts/upload_iran_krieg_to_datawrapper.py
+
+      - name: Upload run artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: iran-krieg-daily-${{ github.run_id }}
+          path: |
+            data/iran_krieg_daily/logs/latest_run_summary.txt
+            data/iran_krieg_daily/output/*.csv
+          if-no-files-found: warn

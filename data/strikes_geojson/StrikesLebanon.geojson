@@ -1,0 +1,8976 @@
+{
+  "type": "FeatureCollection",
+  "name": "StrikesLebanon",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7808000001555,
+          32.0826000001688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9762,
+          32.1141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8875,
+          32.0871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9566,
+          32.0956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1824,
+          32.751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9718,
+          32.7602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9718,
+          32.7602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7857999996707,
+          32.0683999998376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0255000001814,
+          32.7926999999138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2205999996984,
+          31.7758999998789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1397,
+          33.1181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1939,
+          33.2733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1273,
+          33.0188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1273,
+          33.0188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8814,
+          32.7761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5685000002351,
+          32.7152000003072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7702999997363,
+          32.0831000002031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9845000003838,
+          31.7458000002299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913,
+          31.2518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8777,
+          32.0497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8599,
+          32.3329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8579,
+          32.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9813000001191,
+          31.7477000001982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2111999998193,
+          31.8078000002283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2111999998193,
+          31.8078000002283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9910230000384,
+          32.7958400001868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44327999961,
+          33.3777100002751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1178,
+          33.058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0073,
+          33.1122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2033,
+          32.7345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2033,
+          32.7345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35,
+          33.5134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35,
+          33.5134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2071,
+          33.3444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7732999999844,
+          31.2450000002482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9929,
+          31.7307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2163,
+          31.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1916600002694,
+          33.1674999997101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2039399998477,
+          33.2710800001342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2063099999089,
+          33.1785999998417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2218700001179,
+          33.1866200001563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2291600002267,
+          33.1977800000968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.234820000066,
+          33.220770000309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2459899999568,
+          33.2227100003635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2553100003683,
+          33.2250999997468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2701399999329,
+          33.2356500000091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2715400000487,
+          33.2540700003448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2809900001565,
+          33.2749300000134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.294109999984,
+          33.1783100002358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3025399999176,
+          33.2083100000864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3120600003456,
+          33.1898099998274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3258499996446,
+          33.3071400001462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3395200001913,
+          33.3093099996431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3426199999985,
+          33.2186600001159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3506699999905,
+          33.2740200001095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3599600002648,
+          33.2292400001391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3835200002371,
+          33.2424299998203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3970600001891,
+          33.2822599999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4391699996743,
+          33.2074000001728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44327999961,
+          33.3777100002751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4456200004323,
+          33.3894699999863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4517899999095,
+          33.3983199999953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.458289999998,
+          33.4310100002979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4784599997348,
+          33.3501699996251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4809500003449,
+          33.2763800000453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4848300001269,
+          33.3779199997102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4874400003876,
+          33.8591300000489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5160300000123,
+          33.8530100001599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.516329999588,
+          33.8529999997159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186200001816,
+          33.2765899997523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3536500002076,
+          34.1966000002462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3851299995772,
+          34.3969400002009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3251,
+          33.5025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1257,
+          33.1604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2542,
+          32.8677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8706,
+          33.1709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6017,
+          33.4843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3483,
+          33.4877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1829059995723,
+          32.6682399997533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4135860001455,
+          32.9983299998258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7344269997358,
+          33.0532100002264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9762,
+          32.1141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9566,
+          32.0956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1987,
+          32.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7519,
+          32.0238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7806,
+          32.0809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6088840000292,
+          33.2397800003372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8403000001357,
+          32.1133999998121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8880000000384,
+          32.0834000002807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7012950003553,
+          33.3002499996459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4393899997823,
+          33.6893099998377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.500889999928,
+          33.7746100002939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5411700000254,
+          33.8493599998007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2158400004431,
+          34.0078000003292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5685820001905,
+          33.3109299999362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3512,
+          33.6921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8909,
+          32.0332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8909,
+          32.0332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2163,
+          31.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.082529999643,
+          32.9331299997604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4959720004285,
+          32.9628500002952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2015000003645,
+          33.2700200003018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2253800000039,
+          33.1051900001089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2291600002267,
+          33.1977800000968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3324800003277,
+          33.1339300000385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3395200001913,
+          33.3093099996431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3570100002454,
+          33.2900899997697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3835200002371,
+          33.2424299998203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3970600001891,
+          33.2822599999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4023099999495,
+          33.3615399999274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4044599999028,
+          33.1357500000526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4326799996316,
+          33.199969999743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4391699996743,
+          33.2074000001728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4427599999263,
+          33.3780600003022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4456200004323,
+          33.3894699999863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4644899996124,
+          33.2215899999951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684099995773,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4848300001269,
+          33.3779199997102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4932199998775,
+          33.8503999997235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4937699996984,
+          33.8482899999014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4997300000117,
+          33.2920200002322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.505430000034,
+          33.8531399998574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5102300004309,
+          33.8590899996402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5108000003434,
+          33.8521999999408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5129000000679,
+          33.5009800002077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.513480000026,
+          33.3535099998861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5193700000191,
+          33.3110700001705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5265000002943,
+          33.3297000001544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5270400000695,
+          33.8395199998432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5991999995697,
+          33.3718400001803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148100000073,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6783799997402,
+          33.3431900001615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8686300004282,
+          34.4437300001811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0638100003111,
+          34.061350000371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0816800003069,
+          34.1867500000163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2158400004431,
+          34.0078000003292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2264939998894,
+          33.1062700002842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6146769999379,
+          33.3301699997935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2179000002868,
+          37.0010000002075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1822000001158,
+          32.6657999998119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6140979998047,
+          33.2370700003558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.082529999643,
+          32.9331299997604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0774,
+          32.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0161959996635,
+          32.8244699998289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4466149995939,
+          33.0899800002143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.509825000375,
+          33.098479999908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5443300001071,
+          33.1961300001111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5781419999032,
+          33.2771799998022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5955780004289,
+          33.2515900000679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7148520000258,
+          33.1573800001257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8713000000047,
+          32.000599999802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.187612000258,
+          33.0684300003762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5972560003791,
+          33.2408600000346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4964369998606,
+          32.7784199996465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7773000003152,
+          32.0786000003774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6679,
+          33.371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2676400001753,
+          33.1653900000929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3120600003456,
+          33.1898099998274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.381689999951,
+          33.3408199999562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3970600001891,
+          33.2822599999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3994400002961,
+          33.2588299998031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4326799996316,
+          33.199969999743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4355600002291,
+          33.2712199997311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4407199995779,
+          33.3686299998884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4415099995983,
+          33.4631899997847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4456200004323,
+          33.3894699999863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.445879999825,
+          33.2241800002686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4489200002561,
+          33.2466799999876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4517899999095,
+          33.3983199999953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.459680000068,
+          33.3226000002796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4772699996813,
+          33.3263299997044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4784599997348,
+          33.3501699996251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.482120000307,
+          33.37845999968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4852900004344,
+          33.2366399998596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4909700003652,
+          33.3895899999974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4965199997013,
+          33.3861399999827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4997300000117,
+          33.2920200002322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50651999963,
+          33.8412300002877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50651999963,
+          33.8412300002877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50651999963,
+          33.8412300002877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186200001816,
+          33.2765899997523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5193700000191,
+          33.3110700001705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5199900001602,
+          33.8450499999828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5360900001443,
+          33.4612700001387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5434000003446,
+          33.2553299996551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5553550002329,
+          33.2784799999183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6065290000366,
+          33.3119000003205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5170169996762,
+          33.2334599997935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2910050001539,
+          33.1152700001603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5166519998033,
+          33.2334400000225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1403,
+          37.1745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0055,
+          36.9096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6716,
+          32.6989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1273,
+          33.0188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.152,
+          32.7927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2272,
+          33.1829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9858,
+          32.7362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2811130001802,
+          33.1003499999257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3944130001184,
+          33.0285300001206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8125,
+          32.0723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2814310001975,
+          33.0865299999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4940319996393,
+          32.9658399999423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7270630000072,
+          32.9836999998393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2900129995688,
+          33.1138599996345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1145999999148,
+          33.161499999678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2031099996443,
+          33.0659000000452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2751699995853,
+          33.1318299998285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3283000000718,
+          33.1537999997621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3356899997398,
+          33.0973900003376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.354280000334,
+          33.3787599998814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3770000000571,
+          33.5680000002098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3970600001891,
+          33.2822599999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4044599999028,
+          33.1357500000526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4073599996935,
+          33.2055999999017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4372499998748,
+          33.1219599998125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4391699996743,
+          33.2074000001728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4881099998591,
+          33.855530000127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50651999963,
+          33.8412300002877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50651999963,
+          33.8412300002877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5159299995549,
+          33.4858800001136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186200001816,
+          33.2765899997523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5206100003013,
+          33.8423500000801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5675500003207,
+          33.4443900000063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6065290000366,
+          33.3119000003205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1128090000472,
+          33.8722899996874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.162879999836,
+          33.873089999956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2900129995688,
+          33.1138599996345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0068,
+          33.0569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5168750002843,
+          32.9899099998308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9566,
+          32.0956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1003760002476,
+          33.0085000001245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3382670003886,
+          33.0594300000363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5084379997797,
+          33.0986200001643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0823899999009,
+          32.932360000075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4849919996103,
+          32.9948500001601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0574900000873,
+          32.7950500001868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2992919999724,
+          32.8631699996526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8486959997342,
+          32.0372600000144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0957459997299,
+          33.0086600002024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695639998315,
+          33.2076299999624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9814680003486,
+          32.8347699999421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9830020003587,
+          32.8291399999932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0161959996635,
+          32.8244699998289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3425430000056,
+          33.0583100000861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695639998315,
+          33.2076299999624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1003760002476,
+          33.0085000001245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5959819997617,
+          33.24625000018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5959819997617,
+          33.24625000018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8730340000313,
+          31.9316999998584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8185899996428,
+          32.1433100002649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5441409999612,
+          33.216499999682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2900129995688,
+          33.1138599996345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2219200003466,
+          33.2761799997116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2858599999754,
+          33.2971699996421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3283000000718,
+          33.1537999997621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.354280000334,
+          33.3787599998814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3675499999493,
+          33.3821199996904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3709500002305,
+          33.4324299998144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4071599996769,
+          33.3862700000914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4255200001174,
+          33.2299600002962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4355600002291,
+          33.3662799998895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4372499998748,
+          33.1219599998125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4403499996821,
+          33.2343099997305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4407199995779,
+          33.3686299998884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4411000004178,
+          33.2067100001845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4588699999561,
+          33.3782600002211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684089997524,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.468499999989,
+          33.1157899998444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4772699996813,
+          33.3263299997044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4778200004005,
+          33.4108300001479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4919200002192,
+          33.3714000002816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4997300000117,
+          33.2920200002322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.500889999928,
+          33.3883999996897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5173299996707,
+          33.4293599996802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5265000002943,
+          33.3297000001544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148100000073,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5553550002329,
+          33.2784799999183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.445046000322,
+          33.1072900000501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5629809999024,
+          33.2833999997738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5314,
+          32.6172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5861,
+          32.5971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2439,
+          32.5632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06,
+          32.6689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0602,
+          32.9912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5826000000538,
+          34.5077800000958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5686190000004,
+          33.2089199998033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1003760002476,
+          33.0085000001245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1003760002476,
+          33.0085000001245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9885509998699,
+          32.793739999716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7730000004087,
+          32.0898000002332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6497,
+          31.7921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2596599996051,
+          32.8592900000515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695639998315,
+          33.2076299999624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8397000000861,
+          32.0945000003438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5441650002506,
+          33.2167199996878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695639998315,
+          33.2076299999624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5441650002506,
+          33.2167199996878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1810300001538,
+          33.1038399996601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2809900001565,
+          33.2749300000134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3324800003277,
+          33.1339300000385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3382099995889,
+          33.2386700003321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3650500001917,
+          33.321609999757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3686999998198,
+          33.1197500002792
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3780300002771,
+          33.5438499999931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3968400000811,
+          33.4483599998977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4071599996769,
+          33.3862700000914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.417589999776,
+          33.2550599996691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.428789999804,
+          33.2950099998928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44327999961,
+          33.3777100002751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4456200004323,
+          33.3894699999863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.464000000066,
+          33.2520199998952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.465129999845,
+          33.2525799996952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4660100002772,
+          33.2224200002817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684089997524,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4707999997301,
+          33.1928999998057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4784599997348,
+          33.3501699996251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.513480000026,
+          33.3535099998861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5200200002974,
+          33.2765100003169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5991999995697,
+          33.3718400001803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148100000073,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5219660000362,
+          33.1695600002315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9565,
+          35.1359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695639998315,
+          33.2076299999624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695639998315,
+          33.2076299999624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9885509998699,
+          32.793739999716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7894,
+          31.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7894,
+          31.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2163,
+          31.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7519,
+          32.0238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7792,
+          32.0103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8486959997342,
+          32.0372600000144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4951029998671,
+          32.965019999752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5084379997797,
+          33.0986200001643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5377999998814,
+          33.2082899998266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.544439999712,
+          33.2325600003132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5545429995728,
+          33.143320000027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8611000000594,
+          32.0287000000157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1003760002476,
+          33.0085000001245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5461560001952,
+          33.2207899999712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9931970002811,
+          31.6837000002655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5443379996047,
+          33.166540000197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8730340000313,
+          31.9316999998584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1397640002173,
+          33.0178300000929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5377999998814,
+          33.2082899998266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5430809996041,
+          33.1961000000559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5377999998814,
+          33.2082899998266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4948779997362,
+          32.9651800002765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5486049998992,
+          33.2475299998651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2742809998307,
+          32.7490699997448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2788400002033,
+          33.4129799997962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2791900000077,
+          33.4127399997192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2797099996913,
+          33.2751000002067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3324800003277,
+          33.1339300000385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3382099995889,
+          33.2386700003321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3387200001251,
+          33.1218499997756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3387900004453,
+          33.121929999953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3599600002648,
+          33.2292400001391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3835200002371,
+          33.2424299998203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3924299996714,
+          33.1842900002186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3970600001891,
+          33.2822599999016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4008000002289,
+          33.3250500000981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.406609999856,
+          33.1855199997767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4380700000325,
+          33.1499599997712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44327999961,
+          33.3777100002751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.445046000322,
+          33.1072900000501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.464000000066,
+          33.2520199998952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684089997524,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4772699996813,
+          33.3263299997044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4807400002827,
+          33.3834100000524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4997300000117,
+          33.2920200002322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5200200002974,
+          33.2765100003169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5202400004054,
+          33.8565200001269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5675500003207,
+          33.4443900000063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148100000073,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3871699999256,
+          34.396869999768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5219600001884,
+          33.247460000267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5323529995792,
+          33.225229999677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0602,
+          32.9912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6497,
+          31.7921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9708,
+          32.1314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2649,
+          32.5427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8338,
+          32.0807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5430809996041,
+          33.1961000000559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5911999997459,
+          31.4443999997296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5779800004198,
+          33.2774400000223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3944130001184,
+          33.0285300001206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9865590001004,
+          32.7949799998196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0813970003892,
+          32.9341700000338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5737569996079,
+          33.2422299998834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5779800004198,
+          33.2774400000223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.544439999712,
+          33.2325600003132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2036999996482,
+          33.2705600000953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2733900004263,
+          33.4038199999409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3530900002805,
+          33.3798400002886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4071599996769,
+          33.3862700000914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4203399997788,
+          33.3997200002587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4348999999051,
+          33.3654699996646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4350999999216,
+          33.1200900000076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4374599999371,
+          33.3670600002036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4644899996124,
+          33.2215899999951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.465679999666,
+          33.2709299998341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4693700003754,
+          33.3230399999045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4745499998156,
+          33.3973799998903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4809500003449,
+          33.2763800000453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4874999997638,
+          33.3638899996536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4964000000507,
+          33.3862200000727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5060300000836,
+          33.8401000002768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5062600002374,
+          33.8602799996837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5200200002974,
+          33.2765100003169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5202799996901,
+          33.8557899998592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148100000073,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6065290000366,
+          33.3119000003205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6065290000366,
+          33.3119000003205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5160500001038,
+          33.2095099997975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5629809999024,
+          33.2833999997738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5931840000782,
+          33.2936499997003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4708549999817,
+          33.1153999998056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4708549999817,
+          33.1153999998056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5122530001626,
+          33.2330099997084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8539,
+          33.2183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8908,
+          33.1821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9903,
+          33.2001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1847950398338,
+          33.0674994297238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4135860001455,
+          32.9983299998258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9865590001004,
+          32.7949799998196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2716870003618,
+          32.9298420002927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978921000965,
+          33.0105400000906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.566559889791,
+          33.2097129997689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0813970003892,
+          32.9341700000338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2596599996051,
+          32.8592900000515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5117431999507,
+          32.9163936797245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4849918199472,
+          32.9948475703336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5130251201156,
+          32.9799032796701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9716818398817,
+          32.7467416199954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9818150500856,
+          32.8322776599627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.566559889791,
+          33.2097129997689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978921000965,
+          33.0105400000906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5812412002098,
+          33.2771550000147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.144892350122,
+          33.0707710000422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9814680201115,
+          32.8347657700518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.566559889791,
+          33.2097129997689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5812412002098,
+          33.2771550000147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4710081995685,
+          33.0886780001169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3155765696114,
+          33.085672000202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.082529999643,
+          32.9331299997604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978921000965,
+          33.0105400000906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978921000965,
+          33.0105400000906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9235218899772,
+          32.333710989668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2225499996351,
+          33.1860399996955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2293400001518,
+          33.1970800003009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2321300003376,
+          33.1833800002685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4489000001646,
+          33.2467399999673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4603999997683,
+          33.189599999858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4771700001222,
+          33.409440000021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.479742769706,
+          33.8815699996945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.493280000152,
+          33.8491300003534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5203500000103,
+          33.7606999998529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5244699999917,
+          33.8364999997421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684089997524,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3324,
+          33.5043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1049,
+          32.6241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9886,
+          32.9524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9482,
+          29.5581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5441650002506,
+          33.2167199996878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5737569996079,
+          33.2422299998834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2358000000572,
+          31.7760999996577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2939524803989,
+          33.0744856931714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2785444401018,
+          33.0146430002875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3254000002811,
+          33.1451999997661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978921000965,
+          33.0105400000906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5084379997797,
+          33.0986200001643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1783450004482,
+          33.092689000061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.566559889791,
+          33.2097129997689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5959819997617,
+          33.24625000018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5518699995629,
+          33.1271750000991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2039399998477,
+          33.2710800001342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2294199996194,
+          33.1964100001304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2665399996351,
+          33.1643799998921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299779999869,
+          33.3450400000798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3530900002805,
+          33.3798400002886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3710607598101,
+          33.4326099999733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4023068297949,
+          33.3615403900774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4071615995765,
+          33.3862732996717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4129548501151,
+          33.3415985496651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4380700000325,
+          33.1499599997712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684099995773,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4839199995575,
+          33.8499800000593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4873700000674,
+          33.8673400002414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4874999997638,
+          33.3638899996536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4986586000336,
+          33.3618796998245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186200001816,
+          33.2765899997523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5223262900421,
+          33.8288300001245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5383515196518,
+          33.8879899998988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.330201000115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.445046000322,
+          33.1072900000501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8706,
+          33.1709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2151607895863,
+          32.7265999998918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.566559889791,
+          33.2097129997689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0978921000965,
+          33.0105400000906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1468333399564,
+          33.0209849997648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4135860001455,
+          32.9983299998258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2950010002867,
+          33.0752329999893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8903,
+          31.9467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5312,
+          32.7922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5312,
+          32.7922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2163,
+          31.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4849919996103,
+          32.9948500001601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5781340004056,
+          33.2772300001069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5812412002098,
+          33.2771550000147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5130251201156,
+          32.9799032796701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5812412002098,
+          33.2771550000147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5812412002098,
+          33.2771550000147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8087799996848,
+          32.007440000118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.948799999677,
+          31.9957000003106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5461560001952,
+          33.2207899999712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4667340001753,
+          33.0921230000508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.187612000258,
+          33.0684300003762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9814680003486,
+          32.8347699999421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0072350001755,
+          32.462140000109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1783450004482,
+          33.092689000061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2238014902681,
+          33.2293358498666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2365024403886,
+          33.2252513802569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2459899999568,
+          33.2227100003635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2648421999178,
+          33.1962704001424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.299779999869,
+          33.3450400000798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3025399999176,
+          33.2083100000864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3052399996918,
+          33.2258219997944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3324800003277,
+          33.1339300000385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3430400001231,
+          33.3265579999226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.345489999652,
+          33.1698300001976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3599600002648,
+          33.2292400001391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3730864598775,
+          33.5569433701107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.378499999732,
+          33.2178499998139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3842904601034,
+          33.3425604002551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4233700001642,
+          33.2682399999809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4248299996561,
+          33.3467600000353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4301899999198,
+          33.2670308998068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4365700003576,
+          33.2361099999904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4372458200138,
+          33.121958000073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4407222300948,
+          33.3686339100727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.458287609581,
+          33.431006400292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4629221995915,
+          33.1924455001615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.465679999666,
+          33.2709299998341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684099995773,
+          33.1155000002121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4784599997348,
+          33.3501699996251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4874999997638,
+          33.3638899996536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4986586000336,
+          33.3618796998245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5025889997945,
+          33.1423269997515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.513480000026,
+          33.3535099998861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5167976301855,
+          33.3544200003033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5173299996707,
+          33.4293599996802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5443908897137,
+          33.3518890803334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5991987302502,
+          33.3718394300286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148100000073,
+          33.3302000003711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.746627360071,
+          33.3461593899432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8959301801033,
+          34.3971999998135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.330201000115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6006039998834,
+          33.3868959999935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5553549301643,
+          33.2784774697867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.330201000115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.330201000115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684089395653,
+          33.1155032001811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4684089395653,
+          33.1155032001811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148059998093,
+          33.330201000115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4450459500163,
+          33.1072872399787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6006039998834,
+          33.3868959999935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2894,
+          35.2984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8908,
+          33.1821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1198,
+          33.3764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5781340004056,
+          33.2772300001069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5696860000303,
+          33.208060000268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7987,
+          31.9293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2163,
+          31.769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7694504503956,
+          32.0186000000772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8264000003336,
+          32.0826000001688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8668000000816,
+          31.9295999998818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4670331400633,
+          33.091807119978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5955780004289,
+          33.2515900000679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1399545104312,
+          33.0915900102848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1883692998054,
+          33.005257289973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2497299999966,
+          33.0593689999528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2783270397182,
+          33.0146642800361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2389553100348,
+          33.0571087402091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9509983298908,
+          29.5565999998309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8922000003858,
+          31.9472999996534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2091829999355,
+          33.0788139999499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1732870003084,
+          33.087632000366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0712889996071,
+          32.8416499998556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1454680004376,
+          33.0727279997545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1126320004348,
+          33.0584730003612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1454680004376,
+          33.0727279997545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9951279999512,
+          32.7919839998151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5781340004056,
+          33.2772300001069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5164149999768,
+          33.0822710002789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5172950004089,
+          33.232470000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2218700001179,
+          33.1350300000864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2901986903211,
+          33.4514428400152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3430600002146,
+          33.4209899999921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3594536001762,
+          33.419784300316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3718299997643,
+          33.2306500003012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3719899995979,
+          33.557910000215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4372458200138,
+          33.121958000073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4380717301877,
+          33.1499546801148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.463698210148,
+          33.2740876997677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4640037900582,
+          33.2520151897613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4772698101367,
+          33.3263308298589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4784552000362,
+          33.3501706899806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4809445502661,
+          33.2763779099516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4997300000117,
+          33.2920200002322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5130483900747,
+          33.8521290501769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.521965509556,
+          33.1695576203433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6015056200695,
+          33.3869506200499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6039581303896,
+          33.4399425202368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6148058300277,
+          33.3302011202043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5219600001884,
+          33.247460000267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5219600001884,
+          33.247460000267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5928390002967,
+          33.2930300000086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.419608119859,
+          33.4095444800574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5434041397814,
+          33.2553260302993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5553549301643,
+          33.2784774697867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5553549301643,
+          33.2784774697867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8507,
+          32.5074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1937659998417,
+          32.9057939997971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8185999996885,
+          32.08100000025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2783270397182,
+          33.0146642800361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0957459997299,
+          33.0086600002024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7792,
+          32.0103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8248000002013,
+          32.0683000002599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8338675596449,
+          32.0918999996559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.082529999643,
+          32.9331299997604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.69042300033,
+          31.8982300002777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.716473109669,
+          33.1708296301754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.662918080289,
+          33.0097068201078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4135860001455,
+          32.9983290000576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5696860000303,
+          33.208060000268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.470215999574,
+          33.0893740002436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7270630000072,
+          32.9836999998393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4135860001455,
+          32.9983290000576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2900129995688,
+          33.1138599996345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5420260001681,
+          33.255119999905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3283024003702,
+          33.1537996199644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3356894203264,
+          33.0973938903092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3427443403085,
+          33.4725306902829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3810279999771,
+          33.1099769997816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4407222300948,
+          33.3686339100727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4848323600011,
+          33.377921349975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "US, Israel and allies as attacker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5991987302502,
+          33.3718394300286
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.env
+.DS_Store
+.venv/
+data/iran_krieg_daily/input/*
+!data/iran_krieg_daily/input/.gitkeep
+data/iran_krieg_daily/logs/*
+!data/iran_krieg_daily/logs/.gitkeep
+data/iran_krieg_daily/output/*
+!data/iran_krieg_daily/output/.gitkeep
+!data/iran_krieg_daily/output/old/
+data/iran_krieg_daily/output/old/*
+!data/iran_krieg_daily/output/old/.gitkeep

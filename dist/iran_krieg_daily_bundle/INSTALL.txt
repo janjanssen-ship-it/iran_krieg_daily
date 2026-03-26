@@ -1,0 +1,22 @@
+Iran Krieg Daily bundle
+
+Contents
+- scripts/reduce_iran_krieg_points.py
+- data/iran_krieg_daily/config.json
+- data/iran_krieg_daily/README.md
+- data/iran_krieg_daily/ch.srf.iran-krieg.reduce-points.plist
+- data/iran_krieg_daily/LAUNCHD_COMMANDS.md
+- empty runtime folders: input, output, output/old, logs
+
+Install
+1. Unzip this bundle into the target project folder.
+2. Run the script from the project root with:
+   python3 scripts/reduce_iran_krieg_points.py
+3. If you want scheduled runs via launchd, edit
+   data/iran_krieg_daily/ch.srf.iran-krieg.reduce-points.plist
+   so its absolute paths match the local machine.
+
+Notes
+- Python 3 is required.
+- The script fetches live data from SRF and Datawrapper.
+- The config currently uses https://www.srf.ch/news/iran-krieg as the stable source hub.

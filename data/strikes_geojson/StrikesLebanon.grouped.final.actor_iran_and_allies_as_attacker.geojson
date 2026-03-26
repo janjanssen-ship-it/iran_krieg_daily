@@ -1,0 +1,3673 @@
+{
+  "type": "FeatureCollection",
+  "name": "StrikesLebanon.grouped.final.actor_iran_and_allies_as_attacker",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3850_3690",
+        "grouped_source_indices": "401",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.5911999997459,
+          31.4443999997296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3857_3736",
+        "grouped_source_indices": "302,396",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.6497,
+          31.7921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3861_3749",
+        "grouped_source_indices": "671",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.69042300033,
+          31.8982300002777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3868_3766",
+        "grouped_source_indices": "86,341",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7519,
+          32.0238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3870_3664",
+        "grouped_source_indices": "36",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7732999999844,
+          31.2450000002482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3870_3765",
+        "grouped_source_indices": "602",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7694504503956,
+          32.0186000000772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3870_3774",
+        "grouped_source_indices": "18",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7702999997363,
+          32.0831000002031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3870_3775",
+        "grouped_source_indices": "301",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7730000004087,
+          32.0898000002332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3871_3764",
+        "grouped_source_indices": "342,667",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7792,
+          32.0103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3871_3773",
+        "grouped_source_indices": "87,156",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7789500001576,
+          32.079750000188696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3871_3774",
+        "grouped_source_indices": "2",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7808000001555,
+          32.0826000001688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3872_3665",
+        "grouped_source_indices": "20",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7913,
+          31.2518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3872_3759",
+        "grouped_source_indices": "338,339",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7894,
+          31.971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3872_3772",
+        "grouped_source_indices": "9",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7857999996707,
+          32.0683999998376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3873_3754",
+        "grouped_source_indices": "600",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7987,
+          31.9293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3874_3764",
+        "grouped_source_indices": "539",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8087799996848,
+          32.007440000118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3875_3772",
+        "grouped_source_indices": "204",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8125,
+          32.0723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3875_3773",
+        "grouped_source_indices": "664",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8185999996885,
+          32.08100000025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3875_3782",
+        "grouped_source_indices": "256",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8185899996428,
+          32.1433100002649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3876_3772",
+        "grouped_source_indices": "668",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8248000002013,
+          32.0683000002599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3876_3774",
+        "grouped_source_indices": "603",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8264000003336,
+          32.0826000001688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3877_3773",
+        "grouped_source_indices": "399",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8338,
+          32.0807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3877_3775",
+        "grouped_source_indices": "669",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8338675596449,
+          32.0918999996559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3878_3775",
+        "grouped_source_indices": "305",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8397000000861,
+          32.0945000003438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3878_3778",
+        "grouped_source_indices": "89",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8403000001357,
+          32.1133999998121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3879_3768",
+        "grouped_source_indices": "244,343",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8486959997342,
+          32.0372600000144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3880_3767",
+        "grouped_source_indices": "349",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8611000000594,
+          32.0287000000157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3880_3770",
+        "grouped_source_indices": "23",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8579,
+          32.055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3880_3807",
+        "grouped_source_indices": "22",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8599,
+          32.3329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3881_3754",
+        "grouped_source_indices": "604",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8668000000816,
+          31.9295999998818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3881_3763",
+        "grouped_source_indices": "152",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8713000000047,
+          32.000599999802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3882_3754",
+        "grouped_source_indices": "255,354",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8730340000313,
+          31.9316999998584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3882_3769",
+        "grouped_source_indices": "21",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8777,
+          32.0497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3883_3756",
+        "grouped_source_indices": "529",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8903,
+          31.9467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3883_3774",
+        "grouped_source_indices": "4,90",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8877500000192,
+          32.08525000014035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3884_3756",
+        "grouped_source_indices": "613",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8922000003858,
+          31.9472999996534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3884_3767",
+        "grouped_source_indices": "98,99",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8909,
+          32.0332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3887_3807",
+        "grouped_source_indices": "470",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9235218899772,
+          32.333710989668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3890_3446",
+        "grouped_source_indices": "486,612",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9495991649454,
+          29.557349999915452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3890_3762",
+        "grouped_source_indices": "540",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.948799999677,
+          31.9957000003106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3891_3775",
+        "grouped_source_indices": "5,84,236",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9566,
+          32.0956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3892_3780",
+        "grouped_source_indices": "397",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9708,
+          32.1314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3893_3778",
+        "grouped_source_indices": "3,83",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9762,
+          32.1141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3893_3861",
+        "grouped_source_indices": "456",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9716818398817,
+          32.7467416199954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3893_3863",
+        "grouped_source_indices": "7,8",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9718,
+          32.7602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3894_3729",
+        "grouped_source_indices": "19",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9845000003838,
+          31.7458000002299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3894_3730",
+        "grouped_source_indices": "24",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9813000001191,
+          31.7477000001982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3894_3867",
+        "grouped_source_indices": "300,337",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9885509998699,
+          32.793739999716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3894_3868",
+        "grouped_source_indices": "404,447",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9865590001004,
+          32.7949799998196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3894_3872",
+        "grouped_source_indices": "248",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9830020003587,
+          32.8291399999932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 4,
+        "group_id": "iran_and_allies_as_attacker__1km__3894_3873",
+        "grouped_source_indices": "247,457,462,544",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.98155476772357,
+          32.834145857474674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3895_3721",
+        "grouped_source_indices": "352",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9931970002811,
+          31.6837000002655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3895_3728",
+        "grouped_source_indices": "37",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9929,
+          31.7307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3895_3867",
+        "grouped_source_indices": "620",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9951279999512,
+          32.7919839998151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3895_3868",
+        "grouped_source_indices": "27",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.9910230000384,
+          32.7958400001868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3896_3824",
+        "grouped_source_indices": "545",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0072350001755,
+          32.462140000109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3897_3872",
+        "grouped_source_indices": "145,249",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0161959996635,
+          32.8244699998289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3899_3867",
+        "grouped_source_indices": "10",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0255000001814,
+          32.7926999999138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3902_3868",
+        "grouped_source_indices": "242",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0574900000873,
+          32.7950500001868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3904_3873",
+        "grouped_source_indices": "144",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0774,
+          32.839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3904_3874",
+        "grouped_source_indices": "616",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0712889996071,
+          32.8416499998556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 7,
+        "group_id": "iran_and_allies_as_attacker__1km__3905_3886",
+        "grouped_source_indices": "101,143,240,405,451,467,670",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.08218628560733,
+          32.93331714274061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3906_3896",
+        "grouped_source_indices": "245,666",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.0957459997299,
+          33.0086600002024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 11,
+        "group_id": "iran_and_allies_as_attacker__1km__3907_3896",
+        "grouped_source_indices": "237,252,298,299,350,449,459,468,469,493,525",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.09902114561972,
+          33.00961272737874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3908_3903",
+        "grouped_source_indices": "618",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1126320004348,
+          33.0584730003612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3911_3897",
+        "grouped_source_indices": "355",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1397640002173,
+          33.0178300000929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3911_3907",
+        "grouped_source_indices": "607",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1399545104312,
+          33.0915900102848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3912_3898",
+        "grouped_source_indices": "526",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1468333399564,
+          33.0209849997648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3912_3904",
+        "grouped_source_indices": "461,617,619",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.14527611699907,
+          33.072075666517065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3915_3906",
+        "grouped_source_indices": "615",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1732870003084,
+          33.087632000366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3916_3851",
+        "grouped_source_indices": "80,141",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.18255299984405,
+          32.667019999782596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3916_3862",
+        "grouped_source_indices": "6",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1824,
+          32.751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3916_3904",
+        "grouped_source_indices": "445",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1847950398338,
+          33.0674994297238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3916_3907",
+        "grouped_source_indices": "495,546",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1783450004482,
+          33.092689000061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3917_3882",
+        "grouped_source_indices": "663",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1937659998417,
+          32.9057939997971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3917_3896",
+        "grouped_source_indices": "608",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1883692998054,
+          33.005257289973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3917_3904",
+        "grouped_source_indices": "153,543",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.187612000258,
+          33.0684300003762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3918_3875",
+        "grouped_source_indices": "85",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.1987,
+          32.853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3919_3738",
+        "grouped_source_indices": "25,26",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2111999998193,
+          31.8078000002283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3919_3905",
+        "grouped_source_indices": "614",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2091829999355,
+          33.0788139999499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 6,
+        "group_id": "iran_and_allies_as_attacker__1km__3920_3733",
+        "grouped_source_indices": "11,38,100,340,532,601",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.217016666616395,
+          31.770149999979818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3920_3859",
+        "grouped_source_indices": "523",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2151607895863,
+          32.7265999998918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3921_3909",
+        "grouped_source_indices": "138",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2264939998894,
+          33.1062700002842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3922_3733",
+        "grouped_source_indices": "489",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2358000000572,
+          31.7760999996577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3922_3902",
+        "grouped_source_indices": "611",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2389553100348,
+          33.0571087402091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3923_3903",
+        "grouped_source_indices": "609",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2497299999966,
+          33.0593689999528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3925_3834",
+        "grouped_source_indices": "398",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2649,
+          32.5427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3925_3876",
+        "grouped_source_indices": "303,452",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2596599996051,
+          32.8592900000515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3926_3862",
+        "grouped_source_indices": "361",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2742809998307,
+          32.7490699997448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3926_3885",
+        "grouped_source_indices": "448",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2716870003618,
+          32.9298420002927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3927_3897",
+        "grouped_source_indices": "491,610,665",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.27839950651273,
+          33.014657186786565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3927_3906",
+        "grouped_source_indices": "205",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2814310001975,
+          33.0865299999997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3927_3908",
+        "grouped_source_indices": "202",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2811130001802,
+          33.1003499999257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3928_3905",
+        "grouped_source_indices": "490",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2939524803989,
+          33.0744856931714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 5,
+        "group_id": "iran_and_allies_as_attacker__1km__3928_3910",
+        "grouped_source_indices": "193,208,233,258,680",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.290211399685816,
+          33.11414199973966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3929_3877",
+        "grouped_source_indices": "243",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2992919999724,
+          32.8631699996526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3929_3905",
+        "grouped_source_indices": "528",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2950010002867,
+          33.0752329999893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3931_3906",
+        "grouped_source_indices": "466",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3155765696114,
+          33.085672000202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3932_3914",
+        "grouped_source_indices": "492",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3254000002811,
+          33.1451999997661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3933_3903",
+        "grouped_source_indices": "238",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3382670003886,
+          33.0594300000363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3934_3903",
+        "grouped_source_indices": "250",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3425430000056,
+          33.0583100000861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3940_3899",
+        "grouped_source_indices": "203,403",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3944130001184,
+          33.0285300001206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 5,
+        "group_id": "iran_and_allies_as_attacker__1km__3942_3895",
+        "grouped_source_indices": "81,446,527,674,678",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4135860001455,
+          32.99832959991852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3942_3949",
+        "grouped_source_indices": "654",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.419608119859,
+          33.4095444800574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3945_3907",
+        "grouped_source_indices": "146",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4466149995939,
+          33.0899800002143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 4,
+        "group_id": "iran_and_allies_as_attacker__1km__3945_3909",
+        "grouped_source_indices": "288,378,521,593",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.44504598774557,
+          33.10728931003225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 4,
+        "group_id": "iran_and_allies_as_attacker__1km__3948_3907",
+        "grouped_source_indices": "465,542,605,676",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46874783484528,
+          33.09049553009732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 8,
+        "group_id": "iran_and_allies_as_attacker__1km__3948_3910",
+        "grouped_source_indices": "273,325,380,439,440,482,590,591",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.46902048476295,
+          33.11547580010272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3950_3894",
+        "grouped_source_indices": "241,454,533",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4849919397226,
+          32.99484919021793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3951_3865",
+        "grouped_source_indices": "155",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4964369998606,
+          32.7784199996465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 4,
+        "group_id": "iran_and_allies_as_attacker__1km__3951_3890",
+        "grouped_source_indices": "102,206,344,359",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.494996249917776,
+          32.9647225000665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 4,
+        "group_id": "iran_and_allies_as_attacker__1km__3952_3908",
+        "grouped_source_indices": "147,239,345,494",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.50878474992852,
+          33.09858500010023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3952_3914",
+        "grouped_source_indices": "574",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5025889997945,
+          33.1423269997515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3884",
+        "grouped_source_indices": "453",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5117431999507,
+          32.9163936797245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3892",
+        "grouped_source_indices": "455,536",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5130251201156,
+          32.9799032796701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3893",
+        "grouped_source_indices": "235",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5168750002843,
+          32.9899099998308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3906",
+        "grouped_source_indices": "622",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5164149999768,
+          33.0822710002789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3923",
+        "grouped_source_indices": "435",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5160500001038,
+          33.2095099997975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 11,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3926",
+        "grouped_source_indices": "182,192,194,232,280,287,384,392,441,519,623",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.51675290935576,
+          33.2326972726884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 6,
+        "group_id": "iran_and_allies_as_attacker__1km__3953_3932",
+        "grouped_source_indices": "645,650,656,681,683,684",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5186223699373,
+          33.2765854297956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3954_3917",
+        "grouped_source_indices": "333,640",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5219657547961,
+          33.1695588102874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3954_3928",
+        "grouped_source_indices": "393,646,648",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5219600001884,
+          33.247460000267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3955_3867",
+        "grouped_source_indices": "530,531",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5312,
+          32.7922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3955_3925",
+        "grouped_source_indices": "394",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5323529995792,
+          33.225229999677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3956_3917",
+        "grouped_source_indices": "353",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5443379996047,
+          33.166540000197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3956_3921",
+        "grouped_source_indices": "148,357,400",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5434973331051,
+          33.1961100000743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__3956_3922",
+        "grouped_source_indices": "346,356,358",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5377999998814,
+          33.2082899998266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 6,
+        "group_id": "iran_and_allies_as_attacker__1km__3956_3924",
+        "grouped_source_indices": "257,306,308,351,487,541",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.544824666850566,
+          33.218039999781304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3956_3926",
+        "grouped_source_indices": "347,408",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.544439999712,
+          33.2325600003132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 14,
+        "group_id": "iran_and_allies_as_attacker__1km__3956_3929",
+        "grouped_source_indices": "290,330,362,434,520,578,641,647,649,655,658,661,679,682",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.54212443871191,
+          33.25513471636173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3957_3912",
+        "grouped_source_indices": "498",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5518699995629,
+          33.1271750000991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3957_3914",
+        "grouped_source_indices": "348",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5545429995728,
+          33.143320000027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3957_3928",
+        "grouped_source_indices": "360",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5486049998992,
+          33.2475299998651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 7,
+        "group_id": "iran_and_allies_as_attacker__1km__3958_3932",
+        "grouped_source_indices": "188,284,289,436,587,657,659",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.55753382725193,
+          33.279884629820614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 8,
+        "group_id": "iran_and_allies_as_attacker__1km__3959_3922",
+        "grouped_source_indices": "246,251,304,307,335,336,599,675",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5695944998812,
+          33.207737500038796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 6,
+        "group_id": "iran_and_allies_as_attacker__1km__3959_3923",
+        "grouped_source_indices": "297,450,458,463,496,524",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.566903074825895,
+          33.209580833107964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3959_3936",
+        "grouped_source_indices": "96",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5685820001905,
+          33.3109299999362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3960_3927",
+        "grouped_source_indices": "406,488",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5737569996079,
+          33.2422299998834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 11,
+        "group_id": "iran_and_allies_as_attacker__1km__3960_3932",
+        "grouped_source_indices": "149,402,407,460,464,534,535,537,538,598,621",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.579519091182604,
+          33.27722954547646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3962_3927",
+        "grouped_source_indices": "154",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5972560003791,
+          33.2408600000346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 5,
+        "group_id": "iran_and_allies_as_attacker__1km__3962_3928",
+        "grouped_source_indices": "150,253,254,497,606",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.595820400028586,
+          33.248386000135156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 9,
+        "group_id": "iran_and_allies_as_attacker__1km__3962_3934",
+        "grouped_source_indices": "189,228,286,388,430,437,517,651,652",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.59287733360575,
+          33.29309888886323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3963_3927",
+        "grouped_source_indices": "88",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6088840000292,
+          33.2397800003372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 4,
+        "group_id": "iran_and_allies_as_attacker__1km__3963_3936",
+        "grouped_source_indices": "190,229,431,433",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6065290000366,
+          33.3119000003205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 6,
+        "group_id": "iran_and_allies_as_attacker__1km__3963_3938",
+        "grouped_source_indices": "191,285,432,581,653,660",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6075700001272,
+          33.3226900000424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3963_3946",
+        "grouped_source_indices": "586,594",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6006039998834,
+          33.3868959999935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3964_3926",
+        "grouped_source_indices": "142",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6140979998047,
+          33.2370700003558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 10,
+        "group_id": "iran_and_allies_as_attacker__1km__3964_3939",
+        "grouped_source_indices": "139,389,428,438,471,518,585,588,589,592",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.61479309982216,
+          33.33019750018528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3969_3896",
+        "grouped_source_indices": "673",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.662918080289,
+          33.0097068201078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3974_3935",
+        "grouped_source_indices": "91",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7012950003553,
+          33.3002499996459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3975_3916",
+        "grouped_source_indices": "151",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7148520000258,
+          33.1573800001257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3975_3918",
+        "grouped_source_indices": "672",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.716473109669,
+          33.1708296301754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3977_3893",
+        "grouped_source_indices": "207,677",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7270630000072,
+          32.9836999998393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3977_3902",
+        "grouped_source_indices": "82",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7344269997358,
+          33.0532100002264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3991_3924",
+        "grouped_source_indices": "442",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8539,
+          33.2183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3993_3918",
+        "grouped_source_indices": "77,522",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8706,
+          33.1709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__3994_3865",
+        "grouped_source_indices": "16",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8814,
+          32.7761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__3995_3919",
+        "grouped_source_indices": "443,596",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8908,
+          33.1821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4005_3860",
+        "grouped_source_indices": "201",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9858,
+          32.7362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4006_3888",
+        "grouped_source_indices": "485",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9886,
+          32.9524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4006_3921",
+        "grouped_source_indices": "444",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9903,
+          33.2001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4008_3902",
+        "grouped_source_indices": "234",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0068,
+          33.0569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4008_3910",
+        "grouped_source_indices": "30",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0073,
+          33.1122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4014_3851",
+        "grouped_source_indices": "294",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.06,
+          32.6689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__4014_3894",
+        "grouped_source_indices": "295,395",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0602,
+          32.9912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4019_3845",
+        "grouped_source_indices": "484",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1049,
+          32.6241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4020_3903",
+        "grouped_source_indices": "29",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1178,
+          33.058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4020_3945",
+        "grouped_source_indices": "597",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1198,
+          33.3764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4020_4011",
+        "grouped_source_indices": "230",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1128090000472,
+          33.8722899996874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 3,
+        "group_id": "iran_and_allies_as_attacker__1km__4021_3897",
+        "grouped_source_indices": "14,15,198",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1273,
+          33.0188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4021_3916",
+        "grouped_source_indices": "75",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1257,
+          33.1604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4024_3867",
+        "grouped_source_indices": "199",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.152,
+          32.7927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__4030_3860",
+        "grouped_source_indices": "31,32",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2033,
+          32.7345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4030_3941",
+        "grouped_source_indices": "35",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2071,
+          33.3444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4032_3919",
+        "grouped_source_indices": "200",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2272,
+          33.1829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4034_3837",
+        "grouped_source_indices": "293",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2439,
+          32.5632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4035_3877",
+        "grouped_source_indices": "76",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2542,
+          32.8677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4043_3962",
+        "grouped_source_indices": "74",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3251,
+          33.5025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4044_3962",
+        "grouped_source_indices": "483",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3324,
+          33.5043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4046_3960",
+        "grouped_source_indices": "79",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3483,
+          33.4877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": true,
+        "group_size": 2,
+        "group_id": "iran_and_allies_as_attacker__1km__4046_3963",
+        "grouped_source_indices": "33,34",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.35,
+          33.5134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4046_3987",
+        "grouped_source_indices": "97",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3512,
+          33.6921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4066_3844",
+        "grouped_source_indices": "291",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5314,
+          32.6172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4070_3857",
+        "grouped_source_indices": "17",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5685000002351,
+          32.7152000003072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4072_3841",
+        "grouped_source_indices": "292",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5861,
+          32.5971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4074_3959",
+        "grouped_source_indices": "78",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6017,
+          33.4843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4082_3855",
+        "grouped_source_indices": "197",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6716,
+          32.6989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4102_3830",
+        "grouped_source_indices": "662",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8507,
+          32.5074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4225_4182",
+        "grouped_source_indices": "334",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9565,
+          35.1359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4484_4204",
+        "grouped_source_indices": "595",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          40.2894,
+          35.2984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4588_4439",
+        "grouped_source_indices": "140",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.2179000002868,
+          37.0010000002075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4676_4426",
+        "grouped_source_indices": "196",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.0055,
+          36.9096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Actor": "Iran and allies as attacker",
+        "is_grouped": false,
+        "group_size": 1,
+        "group_id": "iran_and_allies_as_attacker__1km__4691_4463",
+        "grouped_source_indices": "195",
+        "grouping_method": "grid_binning",
+        "grouping_threshold_km": 1.0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.1403,
+          37.1745
+        ]
+      }
+    }
+  ]
+}
